@@ -53,7 +53,7 @@ docker run -it \
     -v $PROJECT_DIR/project/notebook:/root/ipynb \
     -v $PROJECT_DIR/project/airflow:/home/airflow \
     -v $PROJECT_DIR/data:/data \
-    spark-hadoop-airflow
+    avnish327030/spark-hadoop-airflow
 </code></pre>
 <p>Click on below link to access portal</p>
 <p><a href="http://localhost:9870/" rel="nofollow noopener">Name Node</a></p>
